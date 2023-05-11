@@ -1,0 +1,69 @@
+,Name,Type,Depth [m],Volume [km,Area [km2],Elevation,Model time,Calibrated,OBJECT_ID,ID,Name_formatted
+0,Lake Aegeri,Natural,83.0,0.36,7.275,724.0,2012-2023,Yes,IW26001612,0,lakeaegeri
+1,Lake Baldegg,Natural,66.0,0.174,5.221,463.0,2012-2023,Yes,IW26001595,1,lakebaldegg
+2,Lake Hallwil,Natural,48.0,0.285,9.947,449.0,2012-2023,Yes,IW26001599,2,lakehallwil
+3,Lake Biel,Natural,74.0,1.12,39.3,429.0,1993-2023,Yes,IW26000069,3,lakebiel
+4,Upper Lake Constance,Natural,251.0,47.6,481.72133,395.0,1981-2023,Yes,IW26000535,4,upperlakeconstance
+5,Lower Lake Constance,Natural,46.0,0.8,61.026269,395.0,1981-2023,Yes,IW26000535,5,lowerlakeconstance
+6,Lake Brienz,Natural,259.0,5.17,29.8,564.0,1981-2023,Yes,IW26001623,6,lakebrienz
+7,Lake Thun,Natural,217.0,6.5,47.927,558.0,1981-2023,Yes,IW26000073,7,lakethun
+8,Lake Geneva,Natural,309.0,89.0,582.21,372.0,1981-2023,Yes,IW11004987,8,lakegeneva
+9,Greifensee,Natural,32.0,0.15,8.447586,435.0,1981-2023,Yes,IW26001597,9,greifensee
+10,Lac de la Gruyère,Artificial,75.0,0.22,9.6,677.0,1989-2023,Yes,IW26001627,10,lacdelagruyere
+11,Klöntalersee,"Natural, used as reservoir",45.0,0.056,3.3,848.0,1981-2023,Yes,IW26001611,11,klontalersee
+12,Lac de Joux,"Natural, used as reservoir",32.0,0.145,8.77,1004.0,2009-2023,Yes,IW26001617,12,lacdejoux
+13,Lago di Vogorno,Artificial,204.0,0.1,,470.0,1981-2023,No,IW24000792,13,lagodivogorno
+14,Lake Maggiore,Natural,372.0,37.0,212.5115,193.0,1981-2023,Yes,IW24000766,14,lakemaggiore
+15,Upper Lake Lugano,Natural,288.0,4.69,27.3,271.0,1981-2023,Yes,IW24002336,15,upperlakelugano
+16,Lower Lake Lugano,Natural,95.0,1.14,20.0,271.0,1981-2023,Yes,IW24002336,16,lowerlakelugano
+17,Lake Lungern,"Natural, used as reservoir",68.0,0.065,1.99112,688.0,2010-2023,Yes,IW26001645,17,lakelungern
+18,Lake Murten,Natural,45.0,0.55,23.0,429.0,1981-2023,Yes,IW26001619,18,lakemurten
+19,Lake Neuchâtel,Natural,152.0,13.77,217.9,429.0,1981-2023,Yes,IW26000072,19,lakeneuchatel
+20,Lake Pfäffikon,Natural,36.0,0.059,3.197506,537.0,1981-2023,Yes,IW26000067,20,lakepfaffikon
+21,Lake Sempach,Natural,87.0,0.66,14.0897,504.0,2010-2023,Yes,IW26001600,21,lakesempach
+22,Lake Sarnen,Natural,51.0,0.239,7.14695,469.0,2010-2023,Yes,IW26000074,22,lakesarnen
+23,Lake Lucerne: Alpnachersee,Natural,35.0,0.1,4.7616,434.0,1981-2023,Yes,IW26000071,23,lakelucernealpnachersee
+24,Lake Lucerne: Urnersee,Natural,200.0,3.16,21.996,434.0,1981-2023,Yes,IW26000071,24,lakelucerneurnersee
+25,Lake Lucerne: Gersauer- and Treibbecken,Natural,214.0,4.41,30.274,434.0,1981-2023,Yes,IW26000071,25,lakelucernegersauerandtreibbecken
+26,Lake Lucerne: Kreuztrichter and Vitznauerbecken,Natural,151.0,4.35,58.9215,434.0,1981-2023,Yes,IW26000071,26,lakelucernekreuztrichterandvitznauerbecken
+27,Walensee,Natural,151.0,2.5,24.1356,419.0,1981-2023,Yes,IW26009843,27,walensee
+28,Lake Zug,Natural,197.0,3.2,38.2,417.0,1981-2023,Yes,IW26001609,28,lakezug
+29,Sihlsee,Artificial,22.0,0.096,11.03606,889.0,2012-2023,Yes,IW26001606,29,sihlsee
+30,Wägitalersee,Artificial,65.0,0.15,4.18,900.0,2012-2023,No,IW26001607,30,wagitalersee
+31,Upper Lake Zurich,Natural,48.0,0.47,20.3,406.0,1981-2023,Yes,IW26001638,31,upperlakezurich
+32,Lower Lake Zurich,Natural,136.0,3.36,66.6,406.0,1981-2023,Yes,IW26001638,32,lowerlakezurich
+33,Lago di Poschiavo,Natural,85.0,0.12,1.98,962.0,1981-2023,Yes,IW24002226,33,lagodiposchiavo
+34,Lake Sils,Natural,71.0,0.137,4.114740000000001,1797.0,2014-2023,Yes,IW35016644,34,lakesils
+35,Lake Silvaplana,Natural,77.0,0.14,2.71465,1791.0,2014-2023,Yes,IW35016646,35,lakesilvaplana
+36,Lake St. Moritz,Natural,44.0,0.02,0.78,1768.0,1981-2023,Yes,IW35016647,36,lakestmoritz
+37,Lake Lauerz,Natural,14.0,0.0234,3.0664,447.0,1981-2023,Yes,IW26001604,37,lakelauerz
+38,Rotsee,Natural,16.0,0.003815,0.4675,419.0,1981-2023,Yes,IW26001603,38,rotsee
+39,Daubensee,Natural,50.0,,,2207.0,2013-2023,No,IW11000268,39,daubensee
+40,Lej da Vadret,Natural,50.0,,,2160.0,2014-2023,No,IW35016643,40,lejdavadret
+41,Lake Davos,Natural,54.0,0.0156,,1558.0,1981-2023,No,IW26009794,41,lakedavos
+42,Lac de l'Hongrin,Natural,105.0,0.0532,,1250.0,2012-2023,No,IW26001620,42,lacdelhongrin
+43,Türlersee,Natural,22.1,0.006485,0.4987,643.0,1981-2023,Yes,IW26001237,43,turlersee
+44,Amsoldingersee,Natural,13.9,0.002591,0.380696,641.0,2012-2023,Yes,IW26001624,44,amsoldingersee
+45,Lac Noir,Natural,10.0,0.002523,,1045.0,1989-2023,No,IW26001614,45,lacnoir
+46,Moossee,Natural,21.1,0.00306,0.303509,521.0,1981-2023,Yes,IW26001613,46,moossee
+47,Mauensee,Natural,9.0,,,504.0,2010-2023,Yes,IW26001232,47,mauensee
+48,Oeschinensee,Natural,56.0,0.04019,1.16,1578.0,1983-2023,Yes,IW26001379,48,oeschinensee
+49,Soppensee,Natural,27.0,0.00286,0.2499,596.0,2010-2023,Yes,IW26001219,49,soppensee
+50,Inkwilersee,Natural,5.0,0.00094,,461.0,2011-2023,Yes,IW26001602,50,inkwilersee
+51,Hüttwilersee,Natural,15.0,0.00268,0.34617,434.0,2010-2023,Yes,IW26001358,51,huttwilersee
+52,Lake Cadagno,Natural,21.0,0.00242,0.234821,1921.0,1981-2023,Yes,IW24000598,52,lakecadagno
+53,Lago Ritom,Natural,69.0,0.048,,1850.0,1981-2023,No,IW24000731,53,lagoritom
+54,Husemersee,Natural,14.3,0.000498,0.0799435,409.6,2010-2023,Yes,IW26001566,54,husemersee
+55,Hüttnersee,Natural,13.3,0.00104,0.165198,658.3,1981-2023,Yes,IW26001228,55,huttnersee
+56,Lützelsee,Natural,6.2,0.000535,0.128256,500.0,1981-2023,Yes,IW26001236,56,lutzelsee
+57,Mettmenhaslisee,Natural,12.5,0.000162,0.025139,417.9,1981-2023,Yes,IW26001344,57,mettmenhaslisee
+58,Egelsee,Natural,6.0,0.000152,0.042789,494.4,1981-2023,Yes,IW26001235,58,egelsee
+59,UntererChatzensee,Natural,7.7,0.000837,0.191775,439.1,1981-2023,Yes,IW26001340,59,untererchatzensee
+60,Seeweidsee,Natural,5.3,3.96e-05,0.011559,550.1,1981-2023,Yes,IW_SEEWEIDSEE,60,seeweidsee
+61,Burgäschisee,Natural,30.0,0.00281,0.206487,464.7,2011-2023,Yes,IW26001601,61,burgaschisee
+62,Burgseeli,Natural,19.1,0.000472,0.052511,612.9,1981-2023,Yes,IW26001207,62,burgseeli
+63,Dittligsee,Natural,16.4,0.000435,0.060205,652.0,1981-2023,Yes,IW26001625,63,dittligsee
+64,Gerzensee,Natural,10.7,0.00151,0.251592,592.4,1981-2023,Yes,IW26001633,64,gerzensee
+65,Lobsigensee,Natural,2.5,2.26e-05,,514.2,1981-2023,Yes,IW26001506,65,lobsigensee
+66,Chli Moossee,Natural,3.0,2.34e-05,0.017081,520.6,1981-2023,Yes,IW26001493,66,chlimoossee
+67,Uebeschisee,Natural,14.7,0.00104,0.14204,641.0,1981-2023,Yes,IW26000075,67,uebeschisee
