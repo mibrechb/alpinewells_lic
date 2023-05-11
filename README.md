@@ -1,6 +1,8 @@
 # AlpineWELLS_LIC
 The lake ice data in this repository consists of relative lake ice coverage (%) and lake ice phenology data from 2017-03-28 to 2023-03-30 based on Sentinel-1, Sentinel-2 and Landsat imagery.
 
+Formatted file names can be linked to Simstrat names according to "id_list.csv".
+
 ## LIC (raw) columns:
 | Column            | Description                                           |
 |:-------------     | -------------                                         |
