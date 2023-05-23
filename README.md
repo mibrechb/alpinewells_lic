@@ -43,7 +43,7 @@ Each row is one full ice event. Events crossing the start end end of the observa
 ## Webcam-based Ground-Truth data
 Each row is one daily observation based on the webcam imagery obtained at Noon local time and the coarse classification scheme.
 
-| coarse-classification            | Description                     |
+| Coarse-classification            | Description                     |
 |:-------------     | -------------                   |
 | i               | ice,	frozen	lake	to	ca.	90-100%  |
 | s               | snow,	frozen	lake	to	ca.	90-100% covered with fresh snow |
