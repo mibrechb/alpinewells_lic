@@ -39,3 +39,18 @@ Each row is one full ice event. Events crossing the start end end of the observa
 | BUE               | Break-up End (30% declining)    |
 | ICD               | Ice Coverage Duration (FUS to BUE)  |
 | CFD               | Complete Freeze Duration (FUE to BUS|
+
+## Webcam-based Ground-Truth data
+Each row is one daily observation based on the webcam imagery obtained at Noon local time and the coarse classification scheme.
+
+| coarse-classification            | Description                     |
+|:-------------     | -------------                   |
+| i               | ice,	frozen	lake	to	ca.	90-100%  |
+| s               | snow,	frozen	lake	to	ca.	90-100% covered with fresh snow |
+| w               | water,	lake	covered	by	water	to	ca.	90-100%   |
+| mi              | more	ice,	ca.	60-90%,	but	a	small	part	water    |
+| ms              | more	snow,	ca.	60-90%,	but	a	small	part	water |
+| mw              | more	water,	ca.	60-90%,	but	a	small	part	frozen  |
+| c               | clouds	or	fog	covering	all	lake|
+| u               | unclear,	when	you	cannot	judge	the	lake	state|
+| n               | no	Webcam	data	availabl|
